@@ -32,8 +32,8 @@
   </a>
   
   <a href="https://t.me/tehnomaniak07" target="_blank" height="25" style="color: red;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/brown">
-
+    
+ <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" height="25" alt="youtube logo"  />
    Kwork
   </a>
 </div>
