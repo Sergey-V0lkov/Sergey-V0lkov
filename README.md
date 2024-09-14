@@ -17,6 +17,10 @@
   <img width="12" />
    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/373968/photoshop.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+    <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
 
