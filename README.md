@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">:wrench: Технологии:</h3>
 
 ###
 
@@ -22,5 +22,17 @@
     <img src="https://www.svgrepo.com/show/452202/figma.svg" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
+
+
+
+
+
+:zap:
+:globe_with_meridians:
+:octocat:
+:mortar_board:
+:bell:
+:bell:
+:email:
 
 
