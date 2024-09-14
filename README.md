@@ -68,14 +68,3 @@
 
 
 
-
-
-:zap:
-:globe_with_meridians:
-:octocat:
-:mortar_board:
-:bell:
-:bell:
-:email:
-
-
