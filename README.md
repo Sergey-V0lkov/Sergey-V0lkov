@@ -24,7 +24,7 @@
 
 
 
-## :wrench: Связаться со мной:
+## :email: Связаться со мной:
 
 <div align="left">
     <a href="https://t.me/tehnomaniak07" target="_blank">
