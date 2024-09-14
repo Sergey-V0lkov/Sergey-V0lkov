@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/tehnomaniak07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=4C2F27&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kwork logo"  />
+    <img src="https://cdn-edge.kwork.ru/pics/t3/38/29457883-651e74925b939.jpg?message=kwork&logo=kwork&label=&color=4C2F27&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kwork logo"  />
   </a>
 </div>
 
