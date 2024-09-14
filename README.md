@@ -3,7 +3,7 @@
 Я являюсь frontend-разработчиком. Владею следующими навыками:
 
 
-:heavy_check_mark: уверенное знание HTML 5, владею версткой по BEM методологии;
+:heavy_check_mark: уверенное знание HTML 5, владею версткой по BEM-методологии;
 
 :heavy_check_mark: CSS3 (flexbox, grid, responsive layout, анимации разной сложности);
 
