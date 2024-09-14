@@ -27,11 +27,11 @@
 ## :wrench: Связаться со мной:
 
 <div align="left">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   
-  <a href="https://t.me/tehnomaniak07" target="_blank" height="25" style="color: red;">
+  <a href="#" target="_blank" height="25" style="color: red;">
    <img src="https://img.shields.io/badge/Kwork-45322E" height="25" alt="Kwork"  />
   </a>
 </div>
